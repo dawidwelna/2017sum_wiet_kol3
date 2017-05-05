@@ -1,0 +1,18 @@
+{"student":[
+    { "firstName":"John", "lastName":"Doe", "subject": [
+	{"name":"Biology", "grades":[0,0,0,0,0], "attendance": 0}, 
+	{"name":"Chemistry", "grades":[0,0,0,0,0], "attendance":0}, 
+	{"name":"Mathematics", "grades":[0,0,0,0,0], "attendance":0}
+]},
+    { "firstName":"Anna", "lastName":"Smith", "subject": [
+	{"name":"Biology", "grades":[0,0,0,0,0], "attendance": 0}, 
+	{"name":"Chemistry", "grades":[0,0,0,0,0], "attendance":0}, 
+	{"name":"Mathematics", "grades":[0,0,0,0,0], "attendance":0}
+]},
+    { "firstName":"Peter", "lastName":"Jones", "subject": [
+	{"name":"Biology", "grades":[0,0,0,0,0], "attendance": 0}, 
+	{"name":"Chemistry", "grades":[0,0,0,0,0], "attendance":0}, 
+	{"name":"Mathematics", "grades":[0,0,0,0,0], "attendance":0}
+]}
+]
+}
